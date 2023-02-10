@@ -1,0 +1,107 @@
+[
+    {
+        "name" : 1,
+        "length" : 94,
+        "width" : 14,
+        "tonnage" : 2509,
+        "speed" : 21
+    },
+    {
+        "name" : 2,
+        "length" : 97.4,
+        "width" : 16.36,
+        "tonnage" : 5392,
+        "speed" : 20
+    },
+    {
+        "name" : 3,
+        "length" : 88.6,
+        "width" : 15.45,
+        "tonnage" : 4103,
+        "speed" : 21
+    },
+    {
+        "name" : 4,
+        "length" : 81,
+        "width" : 18,
+        "tonnage" : 3448,
+        "speed" : 22
+    },
+    {
+        "name" : 5,
+        "length" : 115.02,
+        "width" : 18.24 ,
+        "tonnage" : 8713,
+        "speed" : 19
+    },
+    {
+        "name" : 6,
+        "length" : 147.79,
+        "width" : 23.25,
+        "tonnage" : 13769,
+        "speed" : 18
+    },
+    {
+        "name" : 7,
+        "length" : 74,
+        "width" : 11,
+        "tonnage" : 2120,
+        "speed" : 23
+    },
+    {
+        "name" : 8,
+        "length" : 94.4,
+        "width" : 15.5,
+        "tonnage" : 4100,
+        "speed" : 20
+    },
+    {
+        "name" : 9,
+        "length" : 127,
+        "width" : 27,
+        "tonnage" : 8450,
+        "speed" : 19
+    },
+    {
+        "name" : 10,
+        "length" : 85.01 ,
+        "width" : 14.03,
+        "tonnage" : 1365,
+        "speed" : 24
+    },
+    {
+        "name" : 11,
+        "length" : 88.6,
+        "width" : 15.45,
+        "tonnage" : 1784,
+        "speed" : 23
+    },
+    {
+        "name" : 12,
+        "length" : 69.93,
+        "width" : 11.54,
+        "tonnage" : 1784,
+        "speed" : 23
+    },
+    {
+        "name" : 13,
+        "length" : 80,
+        "width" : 20,
+        "tonnage" : 2500,
+        "speed" : 24
+    },
+    {
+        "name" : 14,
+        "length" : 176.96,
+        "width" : 27.71,
+        "tonnage" : 23732,
+        "speed" : 16
+    },
+    {
+        "name" : 15,
+        "length" : 100.25,
+        "width" : 7.5,
+        "tonnage" : 5964,
+        "speed" : 19
+    }
+]
